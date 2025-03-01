@@ -20,7 +20,7 @@ rainbow-project/
     └── cloud.png
 ```
 
-## Understanding the DOM
+//Understanding the DOM
 
 The Document Object Model (DOM) represents an HTML page as a tree of objects. JavaScript allows us to interact with this structure to modify elements, change styles, and even add new elements dynamically.
 
